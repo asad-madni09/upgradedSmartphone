@@ -1,0 +1,1516 @@
+[
+  {
+    "brand": "realme",
+    "model": "realme x",
+    "camera": 108,
+    "processor": "Snapdragon 710",
+    "battery": 4000,
+    "ram": 4,
+    "storage": 64,
+    "price": 10000,
+    "colors": [
+      "White",
+      "blue",
+      "green"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=realme",
+      "https://placehold.co/200x300?text=realme",
+      "https://placehold.co/200x300?text=realme"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent smartphone",
+        "description": "Great camera and performance",
+        "reviewDate": "2023-04-01"
+      },
+      {
+        "rating": 4,
+        "title": "Good value for money",
+        "description": "Impressive features at an affordable price",
+        "reviewDate": "2023-04-12"
+      },
+      {
+        "rating": 3,
+        "title": "Decent phone",
+        "description": "Average battery life, but overall okay",
+        "reviewDate": "2023-04-18"
+      },
+      {
+        "rating": 2,
+        "title": "Not recommended",
+        "description": "Poor build quality and software issues",
+        "reviewDate": "2023-04-20"
+      },
+      {
+        "rating": 1,
+        "title": "Worst phone ever",
+        "description": "Multiple hardware and software issues",
+        "reviewDate": "2023-04-25"
+      }
+    ]
+  },
+  {
+    "brand": "realme",
+    "model": "realme x",
+    "camera": 64,
+    "processor": "Snapdragon 710",
+    "battery": 4000,
+    "ram": 6,
+    "storage": 128,
+    "price": 20000,
+    "colors": [
+      "White",
+      "green"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=realme",
+      "https://placehold.co/200x300?text=realme"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent smartphone",
+        "description": "Great camera and performance",
+        "reviewDate": "2023-04-01"
+      },
+      {
+        "rating": 4,
+        "title": "Good value for money",
+        "description": "Impressive features at an affordable price",
+        "reviewDate": "2023-04-12"
+      },
+      {
+        "rating": 3,
+        "title": "Decent phone",
+        "description": "Average battery life, but overall okay",
+        "reviewDate": "2023-04-18"
+      },
+      {
+        "rating": 2,
+        "title": "Not recommended",
+        "description": "Poor build quality and software issues",
+        "reviewDate": "2023-04-20"
+      },
+      {
+        "rating": 1,
+        "title": "Worst phone ever",
+        "description": "Multiple hardware and software issues",
+        "reviewDate": "2023-04-25"
+      }
+    ]
+  },
+  {
+    "brand": "realme",
+    "model": "realme narzo",
+    "camera": 108,
+    "processor": "Snapdragon 710",
+    "battery": 4000,
+    "ram": 4,
+    "storage": 64,
+    "price": 10000,
+    "colors": [
+      "White",
+      "blue",
+      "green"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=realme",
+      "https://placehold.co/200x300?text=realme"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent smartphone",
+        "description": "Great camera and performance",
+        "reviewDate": "2023-04-01"
+      },
+      {
+        "rating": 4,
+        "title": "Good value for money",
+        "description": "Impressive features at an affordable price",
+        "reviewDate": "2023-04-12"
+      },
+      {
+        "rating": 3,
+        "title": "Decent phone",
+        "description": "Average battery life, but overall okay",
+        "reviewDate": "2023-04-18"
+      },
+      {
+        "rating": 2,
+        "title": "Not recommended",
+        "description": "Poor build quality and software issues",
+        "reviewDate": "2023-04-20"
+      },
+      {
+        "rating": 1,
+        "title": "Worst phone ever",
+        "description": "Multiple hardware and software issues",
+        "reviewDate": "2023-04-25"
+      }
+    ]
+  },
+  {
+    "brand": "realme",
+    "model": "realme x",
+    "camera": 48,
+    "processor": "Snapdragon 710",
+    "battery": 4000,
+    "colors": [
+      "White",
+      "blue"
+    ],
+    "ram": 12,
+    "storage": 256,
+    "price": 25000,
+    "images": [
+      "https://placehold.co/200x300?text=realme",
+      "https://placehold.co/200x300?text=realme"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent smartphone",
+        "description": "Great camera and performance",
+        "reviewDate": "2023-04-01"
+      },
+      {
+        "rating": 4,
+        "title": "Good value for money",
+        "description": "Impressive features at an affordable price",
+        "reviewDate": "2023-04-12"
+      },
+      {
+        "rating": 3,
+        "title": "Decent phone",
+        "description": "Average battery life, but overall okay",
+        "reviewDate": "2023-04-18"
+      },
+      {
+        "rating": 2,
+        "title": "Not recommended",
+        "description": "Poor build quality and software issues",
+        "reviewDate": "2023-04-20"
+      },
+      {
+        "rating": 1,
+        "title": "Worst phone ever",
+        "description": "Multiple hardware and software issues",
+        "reviewDate": "2023-04-25"
+      }
+    ]
+  },
+  {
+    "brand": "realme",
+    "model": "realme narzo",
+    "camera": 108,
+    "processor": "Snapdragon 710",
+    "battery": 4000,
+    "ram": 4,
+    "storage": 64,
+    "price": 10000,
+    "colors": [
+      "White",
+      "blue",
+      "green"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=realme",
+      "https://placehold.co/200x300?text=realme"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent smartphone",
+        "description": "Great camera and performance",
+        "reviewDate": "2023-04-01"
+      },
+      {
+        "rating": 4,
+        "title": "Good value for money",
+        "description": "Impressive features at an affordable price",
+        "reviewDate": "2023-04-12"
+      },
+      {
+        "rating": 3,
+        "title": "Decent phone",
+        "description": "Average battery life, but overall okay",
+        "reviewDate": "2023-04-18"
+      },
+      {
+        "rating": 2,
+        "title": "Not recommended",
+        "description": "Poor build quality and software issues",
+        "reviewDate": "2023-04-20"
+      },
+      {
+        "rating": 1,
+        "title": "Worst phone ever",
+        "description": "Multiple hardware and software issues",
+        "reviewDate": "2023-04-25"
+      }
+    ]
+  },
+  {
+    "brand": "realme",
+    "model": "realme x",
+    "camera": 48,
+    "processor": "Snapdragon 710",
+    "battery": 4000,
+    "colors": [
+      "White",
+      "blue"
+    ],
+    "ram": 4,
+    "storage": 64,
+    "price": 12000,
+    "images": [
+      "https://placehold.co/200x300?text=realme",
+      "https://placehold.co/200x300?text=realme"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent smartphone",
+        "description": "Great camera and performance",
+        "reviewDate": "2023-04-01"
+      },
+      {
+        "rating": 4,
+        "title": "Good value for money",
+        "description": "Impressive features at an affordable price",
+        "reviewDate": "2023-04-12"
+      },
+      {
+        "rating": 3,
+        "title": "Decent phone",
+        "description": "Average battery life, but overall okay",
+        "reviewDate": "2023-04-18"
+      },
+      {
+        "rating": 2,
+        "title": "Not recommended",
+        "description": "Poor build quality and software issues",
+        "reviewDate": "2023-04-20"
+      },
+      {
+        "rating": 1,
+        "title": "Worst phone ever",
+        "description": "Multiple hardware and software issues",
+        "reviewDate": "2023-04-25"
+      }
+    ]
+  },
+  {
+    "brand": "oneplus",
+    "model": "oneplus nord 5G",
+    "camera": 108,
+    "processor": "Snapdragon 765G",
+    "battery": 4115,
+    "colors": [
+      "white",
+      "blue",
+      "green"
+    ],
+    "ram": 8,
+    "storage": 128,
+    "price": 35000,
+    "images": [
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Super fast and great camera",
+        "reviewDate": "2023-04-02"
+      },
+      {
+        "rating": 4,
+        "title": "Good phone",
+        "description": "Solid performance and battery life",
+        "reviewDate": "2023-04-15"
+      },
+      {
+        "rating": 3,
+        "title": "Decent phone",
+        "description": "Average features for the price",
+        "reviewDate": "2023-04-19"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "Camera is not up to the mark",
+        "reviewDate": "2023-04-21"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone",
+        "description": "Multiple hardware and software issues",
+        "reviewDate": "2023-04-24"
+      }
+    ]
+  },
+  {
+    "brand": "oneplus",
+    "model": "oneplus nord 5G",
+    "camera": 64,
+    "processor": "Snapdragon 765G",
+    "battery": 4115,
+    "colors": [
+      "white",
+      "blue",
+      "green"
+    ],
+    "ram": 4,
+    "storage": 64,
+    "price": 20000,
+    "images": [
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Super fast and great camera",
+        "reviewDate": "2023-04-02"
+      },
+      {
+        "rating": 4,
+        "title": "Good phone",
+        "description": "Solid performance and battery life",
+        "reviewDate": "2023-04-15"
+      },
+      {
+        "rating": 3,
+        "title": "Decent phone",
+        "description": "Average features for the price",
+        "reviewDate": "2023-04-19"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "Camera is not up to the mark",
+        "reviewDate": "2023-04-21"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone",
+        "description": "Multiple hardware and software issues",
+        "reviewDate": "2023-04-24"
+      }
+    ]
+  },
+  {
+    "brand": "oneplus",
+    "model": "oneplus nord 5G",
+    "camera": 108,
+    "processor": "Snapdragon 765G",
+    "battery": 4115,
+    "colors": [
+      "white",
+      "blue",
+      "green"
+    ],
+    "ram": 12,
+    "storage": 256,
+    "price": 40000,
+    "images": [
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Super fast and great camera",
+        "reviewDate": "2023-04-02"
+      },
+      {
+        "rating": 4,
+        "title": "Good phone",
+        "description": "Solid performance and battery life",
+        "reviewDate": "2023-04-15"
+      },
+      {
+        "rating": 3,
+        "title": "Decent phone",
+        "description": "Average features for the price",
+        "reviewDate": "2023-04-19"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "Camera is not up to the mark",
+        "reviewDate": "2023-04-21"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone",
+        "description": "Multiple hardware and software issues",
+        "reviewDate": "2023-04-24"
+      }
+    ]
+  },
+  {
+    "brand": "samsung",
+    "model": "Ace 21",
+    "camera": 64,
+    "processor": "Exynos 2100",
+    "battery": 4000,
+    "ram": 8,
+    "storage": 128,
+    "price": 7999,
+    "colors": [
+      "Phantom Black",
+      "Phantom Silver",
+      "Phantom Violet"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=samsung",
+      "https://placehold.co/200x300?text=samsung",
+      "https://placehold.co/200x300?text=samsung"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Best camera and performance",
+        "reviewDate": "2023-04-28"
+      },
+      {
+        "rating": 4,
+        "title": "Great phone",
+        "description": "Value for money",
+        "reviewDate": "2023-04-29"
+      },
+      {
+        "rating": 3,
+        "title": "Average phone",
+        "description": "Nothing special",
+        "reviewDate": "2023-04-25"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "Not worth the price",
+        "reviewDate": "2023-04-22"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone",
+        "description": "Numerous issues and poor customer support",
+        "reviewDate": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "brand": "samsung",
+    "model": "Ace 21",
+    "camera": 64,
+    "processor": "Exynos 2100",
+    "battery": 4000,
+    "ram": 4,
+    "storage": 64,
+    "price": 5999,
+    "colors": [
+      "Phantom Black",
+      "Phantom Silver",
+      "Phantom Violet"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=samsung",
+      "https://placehold.co/200x300?text=samsung",
+      "https://placehold.co/200x300?text=samsung"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Best camera and performance",
+        "reviewDate": "2023-04-28"
+      },
+      {
+        "rating": 4,
+        "title": "Great phone",
+        "description": "Value for money",
+        "reviewDate": "2023-04-29"
+      },
+      {
+        "rating": 3,
+        "title": "Average phone",
+        "description": "Nothing special",
+        "reviewDate": "2023-04-25"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "Not worth the price",
+        "reviewDate": "2023-04-22"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone",
+        "description": "Numerous issues and poor customer support",
+        "reviewDate": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "brand": "samsung",
+    "model": "Galaxy S21",
+    "camera": 108,
+    "processor": "Exynos 2100",
+    "battery": 4000,
+    "ram": 12,
+    "storage": 256,
+    "price": 91999,
+    "colors": [
+      "Phantom Black",
+      "Phantom Silver",
+      "Phantom Violet"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=samsung",
+      "https://placehold.co/200x300?text=samsung"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Best camera and performance",
+        "reviewDate": "2023-04-28"
+      },
+      {
+        "rating": 4,
+        "title": "Great phone",
+        "description": "Value for money",
+        "reviewDate": "2023-04-29"
+      },
+      {
+        "rating": 3,
+        "title": "Average phone",
+        "description": "Nothing special",
+        "reviewDate": "2023-04-25"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "Not worth the price",
+        "reviewDate": "2023-04-22"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone",
+        "description": "Numerous issues and poor customer support",
+        "reviewDate": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "brand": "samsung",
+    "model": "Galaxy S21",
+    "camera": 120,
+    "processor": "Exynos 2100",
+    "battery": 4000,
+    "ram": 6,
+    "storage": 64,
+    "price": 67999,
+    "colors": [
+      "Phantom Black",
+      "Phantom Silver",
+      "Phantom Violet"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=samsung",
+      "https://placehold.co/200x300?text=samsung"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Best camera and performance",
+        "reviewDate": "2023-04-28"
+      },
+      {
+        "rating": 4,
+        "title": "Great phone",
+        "description": "Value for money",
+        "reviewDate": "2023-04-29"
+      },
+      {
+        "rating": 3,
+        "title": "Average phone",
+        "description": "Nothing special",
+        "reviewDate": "2023-04-25"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "Not worth the price",
+        "reviewDate": "2023-04-22"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone",
+        "description": "Numerous issues and poor customer support",
+        "reviewDate": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "brand": "samsung",
+    "model": "Galaxy S22",
+    "camera": 200,
+    "processor": "Exynos 2100",
+    "battery": 4000,
+    "ram": 8,
+    "storage": 256,
+    "price": 84999,
+    "colors": [
+      "Phantom Black",
+      "Phantom Silver",
+      "Phantom Violet"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=samsung",
+      "https://placehold.co/200x300?text=samsung",
+      "https://placehold.co/200x300?text=samsung"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Best camera and performance",
+        "reviewDate": "2023-04-28"
+      },
+      {
+        "rating": 4,
+        "title": "Great phone",
+        "description": "Value for money",
+        "reviewDate": "2023-04-29"
+      },
+      {
+        "rating": 3,
+        "title": "Average phone",
+        "description": "Nothing special",
+        "reviewDate": "2023-04-25"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "Not worth the price",
+        "reviewDate": "2023-04-22"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone",
+        "description": "Numerous issues and poor customer support",
+        "reviewDate": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "brand": "samsung",
+    "model": "Galaxy S22",
+    "camera": 200,
+    "processor": "Exynos 2100",
+    "battery": 4000,
+    "ram": 6,
+    "storage": 128,
+    "price": 64999,
+    "colors": [
+      "Phantom Black",
+      "Phantom Silver",
+      "Phantom Violet"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=samsung",
+      "https://placehold.co/200x300?text=samsung",
+      "https://placehold.co/200x300?text=samsung"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Best camera and performance",
+        "reviewDate": "2023-04-28"
+      },
+      {
+        "rating": 4,
+        "title": "Great phone",
+        "description": "Value for money",
+        "reviewDate": "2023-04-29"
+      },
+      {
+        "rating": 3,
+        "title": "Average phone",
+        "description": "Nothing special",
+        "reviewDate": "2023-04-25"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "Not worth the price",
+        "reviewDate": "2023-04-22"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone",
+        "description": "Numerous issues and poor customer support",
+        "reviewDate": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "brand": "apple",
+    "model": "iPhone 13 Pro",
+    "camera": 12,
+    "processor": "apple A15 Bionic",
+    "battery": 3095,
+    "ram": 6,
+    "storage": 128,
+    "price": 140000,
+    "colors": [
+      "Graphite",
+      "Gold",
+      "Silver",
+      "Sierra Blue"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Great camera and performance",
+        "reviewDate": "2023-05-01"
+      },
+      {
+        "rating": 4,
+        "title": "Great value for money",
+        "description": "Excellent features at a good price",
+        "reviewDate": "2023-05-02"
+      },
+      {
+        "rating": 3,
+        "title": "Good phone, but overpriced",
+        "description": "High price tag for a smartphone",
+        "reviewDate": "2023-05-03"
+      },
+      {
+        "rating": 2,
+        "title": "Not worth it",
+        "description": "Poor battery life and average camera",
+        "reviewDate": "2023-05-04"
+      },
+      {
+        "rating": 1,
+        "title": "Waste of money",
+        "description": "Too expensive for what it offers",
+        "reviewDate": "2023-05-05"
+      }
+    ]
+  },
+  {
+    "brand": "apple",
+    "model": "iPhone 13 Pro",
+    "camera": 12,
+    "processor": "apple A15 Bionic",
+    "battery": 3095,
+    "ram": 12,
+    "storage": 512,
+    "price": 170000,
+    "colors": [
+      "Graphite",
+      "Gold",
+      "Silver",
+      "Sierra Blue"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Amazing phone",
+        "description": "Great camera and performance",
+        "reviewDate": "2023-05-01"
+      },
+      {
+        "rating": 4,
+        "title": "Great value for money",
+        "description": "Excellent features at a good price",
+        "reviewDate": "2023-05-02"
+      },
+      {
+        "rating": 3,
+        "title": "Good phone, but overpriced",
+        "description": "High price tag for a smartphone",
+        "reviewDate": "2023-05-03"
+      },
+      {
+        "rating": 2,
+        "title": "Not worth it",
+        "description": "Poor battery life and average camera",
+        "reviewDate": "2023-05-04"
+      },
+      {
+        "rating": 1,
+        "title": "Waste of money",
+        "description": "Too expensive for what it offers",
+        "reviewDate": "2023-05-05"
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11 Lite",
+    "camera": 64,
+    "processor": "Snapdragon 732G",
+    "battery": 4250,
+    "ram": 4,
+    "storage": 64,
+    "price": 13000,
+    "colors": [
+      "Black",
+      "Pink",
+      "Blue"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=xiaomi",
+      "https://placehold.co/200x300?text=xiaomi",
+      "https://placehold.co/200x300?text=xiaomi"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Great phone for the price",
+        "description": "I'm really impressed with the performance and camera quality of this phone. Definitely worth the money!",
+        "reviewDate": "2023-05-01"
+      },
+      {
+        "rating": 4,
+        "title": "Solid mid-range phone",
+        "description": "The Mi 11 Lite is a great choice for someone looking for a well-rounded smartphone without breaking the bank.",
+        "reviewDate": "2023-05-10"
+      },
+      {
+        "rating": 3,
+        "title": "Average battery life",
+        "description": "The battery life on this phone could be better. I find myself needing to charge it halfway through the day.",
+        "reviewDate": "2023-05-15"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing camera",
+        "description": "I had high hopes for the camera on this phone, but it just doesn't deliver. The photos are often blurry and the colors are washed out.",
+        "reviewDate": "2023-05-20"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone, don't buy it",
+        "description": "I've had nothing but problems with this phone since I bought it. It freezes constantly and the touch screen is unresponsive.",
+        "reviewDate": "2023-05-25"
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11 Lite",
+    "camera": 64,
+    "processor": "Snapdragon 732G",
+    "battery": 4250,
+    "ram": 6,
+    "storage": 128,
+    "price": 16000,
+    "colors": [
+      "Black",
+      "Pink",
+      "Blue"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=xiaomi",
+      "https://placehold.co/200x300?text=xiaomi",
+      "https://placehold.co/200x300?text=xiaomi"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Great phone for the price",
+        "description": "I'm really impressed with the performance and camera quality of this phone. Definitely worth the money!",
+        "reviewDate": "2023-05-01"
+      },
+      {
+        "rating": 4,
+        "title": "Solid mid-range phone",
+        "description": "The Mi 11 Lite is a great choice for someone looking for a well-rounded smartphone without breaking the bank.",
+        "reviewDate": "2023-05-10"
+      },
+      {
+        "rating": 3,
+        "title": "Average battery life",
+        "description": "The battery life on this phone could be better. I find myself needing to charge it halfway through the day.",
+        "reviewDate": "2023-05-15"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing camera",
+        "description": "I had high hopes for the camera on this phone, but it just doesn't deliver. The photos are often blurry and the colors are washed out.",
+        "reviewDate": "2023-05-20"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible phone, don't buy it",
+        "description": "I've had nothing but problems with this phone since I bought it. It freezes constantly and the touch screen is unresponsive.",
+        "reviewDate": "2023-05-25"
+      }
+    ]
+  },
+  {
+    "brand": "oneplus",
+    "model": "OnePlus 11",
+    "camera": 64,
+    "processor": "Snapdragon 895",
+    "battery": 4500,
+    "ram": 8,
+    "storage": 128,
+    "price": 32000,
+    "colors": [
+      "black",
+      "silver"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Great phone with fast performance",
+        "description": "I've been using the OnePlus 11 for a few weeks now and it's been great so far. The phone is incredibly fast and responsive, and the camera takes great photos.",
+        "reviewDate": "2023-04-30"
+      },
+      {
+        "rating": 4,
+        "title": "Excellent value for money",
+        "description": "The OnePlus 11 offers a lot of features and performance for the price. The display is crisp and bright, and the battery lasts all day with moderate use.",
+        "reviewDate": "2023-04-25"
+      },
+      {
+        "rating": 3,
+        "title": "Good phone, but not perfect",
+        "description": "The OnePlus 11 has a few minor issues, like the lack of a headphone jack and the camera sometimes struggling in low light. But overall it's a solid choice for anyone looking for a high-end phone.",
+        "reviewDate": "2023-04-20"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing phone with software issues",
+        "description": "I've had several problems with the OnePlus 11, including random reboots and freezing, and the camera app crashing. I wouldn't recommend this phone.",
+        "reviewDate": "2023-04-15"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible experience with OnePlus 11",
+        "description": "I've had nothing but trouble with the OnePlus 11, including overheating, slow performance, and a buggy camera. I regret buying this phone.",
+        "reviewDate": "2023-04-10"
+      }
+    ]
+  },
+  {
+    "brand": "oneplus",
+    "model": "OnePlus 11",
+    "camera": 64,
+    "processor": "Snapdragon 895",
+    "battery": 4500,
+    "ram": 6,
+    "storage": 64,
+    "price": 29000,
+    "colors": [
+      "black",
+      "silver"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Great phone with fast performance",
+        "description": "I've been using the OnePlus 11 for a few weeks now and it's been great so far. The phone is incredibly fast and responsive, and the camera takes great photos.",
+        "reviewDate": "2023-04-30"
+      },
+      {
+        "rating": 4,
+        "title": "Excellent value for money",
+        "description": "The OnePlus 11 offers a lot of features and performance for the price. The display is crisp and bright, and the battery lasts all day with moderate use.",
+        "reviewDate": "2023-04-25"
+      },
+      {
+        "rating": 3,
+        "title": "Good phone, but not perfect",
+        "description": "The OnePlus 11 has a few minor issues, like the lack of a headphone jack and the camera sometimes struggling in low light. But overall it's a solid choice for anyone looking for a high-end phone.",
+        "reviewDate": "2023-04-20"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing phone with software issues",
+        "description": "I've had several problems with the OnePlus 11, including random reboots and freezing, and the camera app crashing. I wouldn't recommend this phone.",
+        "reviewDate": "2023-04-15"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible experience with OnePlus 11",
+        "description": "I've had nothing but trouble with the OnePlus 11, including overheating, slow performance, and a buggy camera. I regret buying this phone.",
+        "reviewDate": "2023-04-10"
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 10",
+    "camera": 108,
+    "processor": "Snapdragon 865",
+    "battery": 4780,
+    "ram": 8,
+    "storage": 128,
+    "price": 34999,
+    "colors": [
+      "Coral Green",
+      "Twilight Grey",
+      "Peach Gold"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=xiaomi",
+      "https://placehold.co/200x300?text=xiaomi",
+      "https://placehold.co/200x300?text=xiaomi",
+      "https://placehold.co/200x300?text=xiaomi"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Great phone for the price",
+        "description": "The camera is amazing and the performance is top-notch",
+        "reviewDate": "2023-05-01"
+      },
+      {
+        "rating": 4,
+        "title": "Good value for money",
+        "description": "Fast and reliable, but the battery life could be better",
+        "reviewDate": "2023-05-05"
+      },
+      {
+        "rating": 3,
+        "title": "Decent mid-range phone",
+        "description": "The camera is good, but the build quality is average",
+        "reviewDate": "2023-05-08"
+      },
+      {
+        "rating": 2,
+        "title": "Not worth the price",
+        "description": "Poor battery life and too many bugs",
+        "reviewDate": "2023-05-15"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible experience",
+        "description": "The phone has too many problems and the customer service is unhelpful",
+        "reviewDate": "2023-05-20"
+      }
+    ]
+  },
+  {
+    "brand": "apple",
+    "model": "iPhone 7",
+    "camera": 12,
+    "processor": "apple A10 Fusion",
+    "battery": 1960,
+    "ram": 2,
+    "storage": 128,
+    "price": 54999,
+    "colors": [
+      "Black",
+      "Jet Black",
+      "Silver",
+      "Gold",
+      "Rose Gold"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Still a great phone",
+        "description": "The iPhone 7 may be old, but it still works great for everyday tasks",
+        "reviewDate": "2023-05-25"
+      },
+      {
+        "rating": 4,
+        "title": "Solid performer",
+        "description": "The camera is good and the battery life is decent, but the storage could be better",
+        "reviewDate": "2023-05-28"
+      },
+      {
+        "rating": 3,
+        "title": "Okay phone",
+        "description": "The design is outdated and the performance is starting to show its age",
+        "reviewDate": "2023-06-02"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "The battery life is terrible and the phone lags frequently",
+        "reviewDate": "2023-06-10"
+      },
+      {
+        "rating": 1,
+        "title": "Avoid at all costs",
+        "description": "The phone is riddled with problems and is not worth the money",
+        "reviewDate": "2023-06-15"
+      }
+    ]
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 10",
+    "camera": 108,
+    "processor": "Snapdragon 865",
+    "battery": 4780,
+    "ram": 8,
+    "storage": 128,
+    "price": 34999,
+    "colors": [
+      "Coral Green",
+      "Twilight Grey",
+      "Peach Gold"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=xiaomi",
+      "https://placehold.co/200x300?text=xiaomi",
+      "https://placehold.co/200x300?text=xiaomi",
+      "https://placehold.co/200x300?text=xiaomi"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Great phone for the price",
+        "description": "The camera is amazing and the performance is top-notch",
+        "reviewDate": "2023-05-01"
+      },
+      {
+        "rating": 4,
+        "title": "Good value for money",
+        "description": "Fast and reliable, but the battery life could be better",
+        "reviewDate": "2023-05-05"
+      },
+      {
+        "rating": 3,
+        "title": "Decent mid-range phone",
+        "description": "The camera is good, but the build quality is average",
+        "reviewDate": "2023-05-08"
+      },
+      {
+        "rating": 2,
+        "title": "Not worth the price",
+        "description": "Poor battery life and too many bugs",
+        "reviewDate": "2023-05-15"
+      },
+      {
+        "rating": 1,
+        "title": "Terrible experience",
+        "description": "The phone has too many problems and the customer service is unhelpful",
+        "reviewDate": "2023-05-20"
+      }
+    ]
+  },
+  {
+    "brand": "apple",
+    "model": "iPhone 7",
+    "camera": 12,
+    "processor": "apple A10 Fusion",
+    "battery": 1960,
+    "ram": 6,
+    "storage": 256,
+    "price": 59999,
+    "colors": [
+      "Black",
+      "Jet Black",
+      "Silver",
+      "Gold",
+      "Rose Gold"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Still a great phone",
+        "description": "The iPhone 7 may be old, but it still works great for everyday tasks",
+        "reviewDate": "2023-05-25"
+      },
+      {
+        "rating": 4,
+        "title": "Solid performer",
+        "description": "The camera is good and the battery life is decent, but the storage could be better",
+        "reviewDate": "2023-05-28"
+      },
+      {
+        "rating": 3,
+        "title": "Okay phone",
+        "description": "The design is outdated and the performance is starting to show its age",
+        "reviewDate": "2023-06-02"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "The battery life is terrible and the phone lags frequently",
+        "reviewDate": "2023-06-10"
+      },
+      {
+        "rating": 1,
+        "title": "Avoid at all costs",
+        "description": "The phone is riddled with problems and is not worth the money",
+        "reviewDate": "2023-06-15"
+      }
+    ]
+  },
+  {
+    "brand": "oneplus",
+    "model": "OnePlus 12",
+    "camera": 108,
+    "processor": "Snapdragon 895",
+    "battery": 5000,
+    "ram": 8,
+    "storage": 128,
+    "price": 40000,
+    "colors": [
+      "Midnight Black",
+      "Stellar Silver",
+      "Nebula Blue"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent phone",
+        "description": "Great camera and fast performance. The battery life is impressive too!",
+        "reviewDate": "2023-05-01"
+      },
+      {
+        "rating": 4,
+        "title": "Solid choice",
+        "description": "The phone works well and the camera is good, but the design is a bit bland",
+        "reviewDate": "2023-05-05"
+      },
+      {
+        "rating": 3,
+        "title": "Average phone",
+        "description": "The phone is okay, but nothing special. The battery life could be better.",
+        "reviewDate": "2023-05-08"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "The phone has too many bugs and the customer service is unhelpful",
+        "reviewDate": "2023-05-15"
+      },
+      {
+        "rating": 1,
+        "title": "Waste of money",
+        "description": "The phone stopped working after a few weeks and the company wouldn't help",
+        "reviewDate": "2023-05-20"
+      }
+    ]
+  },
+  {
+    "brand": "oneplus",
+    "model": "OnePlus 12",
+    "camera": 108,
+    "processor": "Snapdragon 895",
+    "battery": 5000,
+    "ram": 12,
+    "storage": 512,
+    "price": 45000,
+    "colors": [
+      "Midnight Black",
+      "Stellar Silver",
+      "Nebula Blue"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus",
+      "https://placehold.co/200x300?text=oneplus"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent phone",
+        "description": "Great camera and fast performance. The battery life is impressive too!",
+        "reviewDate": "2023-05-01"
+      },
+      {
+        "rating": 4,
+        "title": "Solid choice",
+        "description": "The phone works well and the camera is good, but the design is a bit bland",
+        "reviewDate": "2023-05-05"
+      },
+      {
+        "rating": 3,
+        "title": "Average phone",
+        "description": "The phone is okay, but nothing special. The battery life could be better.",
+        "reviewDate": "2023-05-08"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing",
+        "description": "The phone has too many bugs and the customer service is unhelpful",
+        "reviewDate": "2023-05-15"
+      },
+      {
+        "rating": 1,
+        "title": "Waste of money",
+        "description": "The phone stopped working after a few weeks and the company wouldn't help",
+        "reviewDate": "2023-05-20"
+      }
+    ]
+  },
+  {
+    "brand": "apple",
+    "model": "iPhone 12",
+    "camera": 12,
+    "processor": "A14 Bionic",
+    "battery": 2815,
+    "ram": 4,
+    "storage": 256,
+    "price": 150000,
+    "colors": [
+      "Black",
+      "White",
+      "Green",
+      "Blue",
+      "Purple",
+      "Red"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Fantastic phone",
+        "description": "The camera is amazing and the A14 chip is super fast",
+        "reviewDate": "2023-05-01"
+      },
+      {
+        "rating": 4,
+        "title": "Great upgrade from my old iPhone",
+        "description": "Love the new design and the OLED screen",
+        "reviewDate": "2023-05-05"
+      },
+      {
+        "rating": 3,
+        "title": "Good but not great",
+        "description": "Expected more from a new iPhone",
+        "reviewDate": "2023-05-08"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing battery life",
+        "description": "Struggles to last a full day with normal usage",
+        "reviewDate": "2023-05-15"
+      },
+      {
+        "rating": 1,
+        "title": "Waste of money",
+        "description": "Too expensive for what you get",
+        "reviewDate": "2023-05-20"
+      }
+    ]
+  },
+  {
+    "brand": "apple",
+    "model": "iPhone 12",
+    "camera": 12,
+    "processor": "A14 Bionic",
+    "battery": 2815,
+    "ram": 6,
+    "storage": 128,
+    "price": 125000,
+    "colors": [
+      "Black",
+      "White",
+      "Green",
+      "Blue",
+      "Purple",
+      "Red"
+    ],
+    "images": [
+      "https://placehold.co/200x300?text=apple",
+      "https://placehold.co/200x300?text=apple"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Fantastic phone",
+        "description": "The camera is amazing and the A14 chip is super fast",
+        "reviewDate": "2023-05-01"
+      },
+      {
+        "rating": 4,
+        "title": "Great upgrade from my old iPhone",
+        "description": "Love the new design and the OLED screen",
+        "reviewDate": "2023-05-05"
+      },
+      {
+        "rating": 3,
+        "title": "Good but not great",
+        "description": "Expected more from a new iPhone",
+        "reviewDate": "2023-05-08"
+      },
+      {
+        "rating": 2,
+        "title": "Disappointing battery life",
+        "description": "Struggles to last a full day with normal usage",
+        "reviewDate": "2023-05-15"
+      },
+      {
+        "rating": 1,
+        "title": "Waste of money",
+        "description": "Too expensive for what you get",
+        "reviewDate": "2023-05-20"
+      }
+    ]
+  }
+]

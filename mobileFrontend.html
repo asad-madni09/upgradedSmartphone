@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <style>
+        body {
+            background-image: url('Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==.jpg');
+        }
+
+        .container {
+            margin-top: 30px;
+
+        }
+
+        .table tbody tr {
+            border-bottom: 5px solid #178ce6;
+
+        }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            box-shadow: 0 0 10px rgba(236, 21, 21, 0.1);
+            background-color: #f7f7f7;
+        }
+
+        .table td {
+            padding: 10px;
+
+        }
+
+
+
+        .table tbody tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .table tbody tr:hover {
+            background-color: #ddd;
+        }
+
+        .table td.phone-image img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 0 auto;
+        }
+
+        .table th {
+            background-color: #81aae4;
+            color: white;
+
+        }
+
+        .table td {
+            background-color: #defdc8;
+            color: #333;
+            border-right: 5px solid #b5b5f3;
+
+        }
+
+        .table td.phone-image img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 0 auto;
+
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        // abhi sirf brand and model leke table create kiye hain
+        async function getPhones(brandId, model, from, to, storage) {
+            let url = 'http://localhost:8000/searchingPhones?brandId=' + brandId + "&model=" + model + "&from=" + from + "&to=" + to + "&storage=" + storage;
+            console.log(url)
+            const response = await axios.get(url)
+
+
+            let rows = ''
+            for (let i = 0; i < response.data.data.length; i++) {
+                const phone = response.data.data[i]
+                let table = document.getElementById("table-body")
+                let row = table.insertRow(-1)
+                let c1 = row.insertCell(0)
+                let c2 = row.insertCell(1)
+                let c3 = row.insertCell(2)
+                let c4 = row.insertCell(3)
+                let c5 = row.insertCell(4)
+                let c6 = row.insertCell(5)
+                let c7 = row.insertCell(6)
+
+                c1.innerText = phone.brand[0].name
+                c2.innerText = phone.model
+                c3.innerText = phone.processor
+                c4.innerText = phone.camera
+
+                let imagesHTML = '';
+                for (let i = 0; i < phone.images.length; i++) {
+                    imagesHTML += `<img src="${phone.images[i]}" width="100">`;
+                }
+
+                c5.innerHTML = `
+               <div style="display: flex; gap: 10px;">
+              ${imagesHTML}
+              </div>`
+
+                c6.innerHTML = phone.storage
+                c7.innerHTML = phone.price
+
+            }
+
+
+
+        }
+        getPhones("", "", "", "", "")// screen chalu hone se kya paas krna hai wo bataoa
+
+        /// brands laane ke liye
+        async function getBrands() {
+            let url = 'http://localhost:8000/getBrandOnly'
+            const response = await axios.get(url)
+            for (let i = 0; i < response.data.data.length; i++) {
+                let br = response.data.data[i];
+                let option = document.createElement("option");  // Create a new <option> element
+                option.value = br._id;  // Set the value attribute to the value of 'br'
+                option.textContent = br.name;  // Set the text content of the <option> element to the value of 'br'
+                document.getElementById("brands").appendChild(option);  // Append the <option> element to the <select> element
+            }
+            populateModels()
+        }
+        getBrands("")
+
+
+
+
+
+        // jab ham brand ko select karenge toh show hoga sare models
+        async function populateModels() {
+            const brandValue = document.getElementById("brands").value
+            console.log("brandValue", brandValue)
+
+            let url = 'http://localhost:8000/getModelsOnly?brand=' + brandValue
+            const response = await axios.get(url)
+            console.log(response.data)
+
+
+            let modelDropdown = document.getElementById("models")
+            modelDropdown.innerHTML = ""
+
+            let firstOption = document.createElement("option")
+            firstOption.value = ""
+            firstOption.textContent = "All models"
+            document.getElementById("models").appendChild(firstOption)
+
+
+            for (let i = 0; i < response.data.data.length; i++) {
+                let modelsOnly = response.data.data[i];
+                let option = document.createElement("option");
+                option.value = modelsOnly;
+                option.textContent = modelsOnly;
+                document.getElementById("models").appendChild(option);
+            }
+
+        }
+
+
+
+        // search using filter brand and model final function
+        function searchData() {
+            var Table = document.getElementById("table-body")
+            Table.innerHTML = ""
+            const brand = document.getElementById("brands").value
+            let model = document.getElementById("models").value
+            let from = document.getElementById('from').value;
+            let to = document.getElementById('to').value;
+            let storage = document.getElementById("str").value
+            console.log(storage)
+            getPhones(brand, model, from, to, storage)
+        }
+
+
+
+    </script>
+    </div>
+</head>
+
+<body>
+    <div class="container">
+        <div class="form-inline">
+            <div class="row">
+                <div class="col-sm-2">
+                    <label for="brand">Brand</label>
+                    <select name="brands" id="brands" onchange="populateModels()">
+                        <option value="">-- Select --</option>
+
+                    </select>
+                </div>
+                <div class="col-sm-2">
+                    <label for="model">Model</label>
+
+                    <select name="models" id="models">
+                    </select>
+                </div>
+                <div class="col-sm-2">
+
+                    <label for="storage">Storage</label>
+
+                    <select name="str" id="str">
+                        <option value="">-Storage-</option>
+                        <option value="64">64 GB</option>
+                        <option value="128">128 GB</option>
+                        <option value="256">256 GB</option>
+                        <option value="512">512 GB</option>
+
+                    </select>
+                </div>
+
+
+                <div class="col-sm-2">
+                    <input type="number" id="from">
+
+                    <label for="from">Price From</label>
+                </div>
+                <div class="col-sm-2">
+                    <input type="number" id="to">
+
+                    <label for="to">Price To</label>
+                </div>
+                <div class="col-sm-2">
+                    <input type="button" id="Search" onclick="searchData()" class="form-inline mt-3" value="Search"
+                        style="background-color: rgb(29, 17, 1); color: white;">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <h1>Phone Finder </h1>
+    </div>
+
+    <div class="container">
+        <table id="table-phones" class="table">
+            <thead>
+                <tr>
+                    <th>Brand</th>
+                    <th>Model</th>
+                    <th>Processor</th>
+                    <th>Camera</th>
+                    <th>Images</th>
+                    <th>Storage</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody id="table-body">
+            </tbody>
+        </table>
+    </div>
+
+</body>
+
+</html>
+
+
+<!-- Add more columns, Add image column -->
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
